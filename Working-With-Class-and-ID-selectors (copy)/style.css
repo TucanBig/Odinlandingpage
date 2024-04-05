@@ -1,0 +1,28 @@
+ .pclass {
+
+    background-color: lightpink;
+    font-style: Verdana, "DejaVu Sans", sans-serif;
+
+
+}
+
+#idclass {
+
+
+    color: blue;
+    font-size: 36px;
+
+}
+
+.fontclass {
+
+    font-size: 24px;
+}
+
+#idclasstwo {
+
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 900;
+}

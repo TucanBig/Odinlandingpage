@@ -1,0 +1,22 @@
+.ybackground{
+
+    background-color: yellow;
+}
+
+
+.morestuff{
+
+    background-color: black;
+    color: white;
+    font-weight: 900;
+
+}
+
+.morestuff, .ybackground {
+
+    font-size: 24px;
+    font-style: Helvetica, Times New Roman, sans-serif;
+
+}
+
+/* You can also make a third class and put them in both elements then call it here and it will do the same thing */
