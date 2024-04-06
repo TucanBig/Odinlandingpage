@@ -1,2 +1,0 @@
-# Odin-Landingpage
-Landingpage
